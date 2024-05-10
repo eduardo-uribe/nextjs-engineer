@@ -54,5 +54,99 @@
     "job_employer": "scribd.com",
     "job_url": "https://jobs.lever.co/scribd/634c9fc9-b8ba-48c8-90e0-f763d7726c6f",
     "job_location": "Remote"
+  },
+  {
+    "job_title": "Senior Frontend Engineer",
+    "job_employer": "sweet.io",
+    "job_url": "https://boards.greenhouse.io/sweet/jobs/4412534005?gh_src=a8fff8b95us&source=LinkedIn",
+    "job_salary": "$100,00 - $180,000",
+    "job_location": "Remote"
+  },
+  {
+    "job_title": "Senior, Software Engineer | Web Engineer | Javascript, React & Node.js",
+    "job_employer": "walmart.com",
+    "job_url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-CA-SUNNYVALE-Home-Office-GEC-Sunnyvale-Bus-Pk-Bldg-M/Senior--Software-Engineer---Web-Engineer---Javascript--React---Nodejs_R-1848927?source=Job_Board_LinkedIn&_ccid=17146603554144q7oxwlwo",
+    "job_location": "Sunnyvale, CA",
+    "job_salary": "$117,000 - $234,000"
+  },
+  {
+    "job_title": "Software Engineer",
+    "job_employer": "ivo.ai",
+    "job_url": "https://jobs.polymer.co/latch/28962",
+    "job_location": "San Francisco, CA",
+    "job_salary": "$125,000 - $165,000"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "job_employer": "ivo.ai",
+    "job_url": "https://jobs.polymer.co/latch/28964",
+    "job_location": "San Francisco, CA",
+    "job_salary": "$164,000 - $240,000"
+  },
+  {
+    "job_title": "Software Engineer II (Checkout Experience)",
+    "job_employer": "affirm.com",
+    "job_url": "https://boards.greenhouse.io/affirm/jobs/5907588003?gh_src=689c81d53us&source=LinkedIn",
+    "job_location": "Remote US",
+    "job_salary": "$124,900 - $187,300"
+  },
+  {
+    "job_title": "UI Engineer",
+    "job_employer": "fermatcommerce.com",
+    "job_url": "https://jobs.ashbyhq.com/fermat/e203ec8f-055b-4348-9451-227df0b66775"
+  },
+  {
+    "job_title": "Staff Software Engineer, Frontend (BLR)",
+    "job_employer": "fermatcommerce.com",
+    "job_url": "https://jobs.ashbyhq.com/fermat/07798653-0552-453e-b226-9b3a5bf99cc5"
+  },
+  {
+    "job_title": "Staff Software Engineer, Frontend",
+    "job_employer": "fermatcommerce.com",
+    "job_url": "https://jobs.ashbyhq.com/fermat/ba7404b1-4a84-42e9-a7fd-cce343d30484",
+    "job_location": "San Francisco, CA"
+  },
+  {
+    "job_title": "Staff Software Engineer, Backend (BLR)",
+    "job_employer": "fermatcommerce.com",
+    "job_url": "https://jobs.ashbyhq.com/fermat/186ec0b2-cb99-4b75-9ce1-b43541ed83ff"
+  },
+  {
+    "job_title": "Senior Software Engineer, Full Stack",
+    "job_employer": "fermatcommerce.com",
+    "job_url": "https://jobs.ashbyhq.com/fermat/b0d96dec-4223-42c4-929c-03665cf11aad",
+    "job_location": "San Francisco, CA"
+  },
+  {
+    "job_title": "Senior Full Stack Web Developer",
+    "job_employer": "way.co",
+    "job_url": "https://jobs.lever.co/Way/0812bd75-d143-451b-8d95-171124d42673",
+    "job_location": "Austin, TX"
+  },
+  {
+    "job_title": "Senior Software Engineer, Front End (Hybrid)",
+    "job_employer": "weedmaps.com",
+    "job_url": "https://boards.greenhouse.io/weedmaps77/jobs/7284359002?gh_src=0cb2d2f52&source=LinkedIn",
+    "job_location": "Irvine, CA",
+    "job_salary": "$160,000 - $180,000"
+  },
+  {
+    "job_title": "Software Engineer, Product (Remote)",
+    "job_employer": "wandb.ai",
+    "job_url": "https://jobs.lever.co/wandb/da4edc26-b151-4fc9-965c-23a3618e8856",
+    "job_locatoin": "Remote",
+    "job_salary": "$146,000 - $203,000"
+  },
+  {
+    "job_title": "Founding Fullstack Engineer",
+    "job_employer": "gptzero.me",
+    "job_url": "https://jobs.ashbyhq.com/GPTZero/0d7acb12-2773-4714-b5b6-381100a5dc95",
+    "job_location": "New York, NY"
+  },
+  {
+    "job_title": "Senior Software Engineer - Front End",
+    "job_employer": "disney.com",
+    "job_url": "https://www.disneycareers.com/en/job/-/-/391/62584648400",
+    "job_salary": "$136,038 - $199,870"
   }
 ]

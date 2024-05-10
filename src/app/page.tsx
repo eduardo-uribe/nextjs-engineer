@@ -14,18 +14,26 @@ export default async function Page() {
 
   return (
     <>
-      <nav className='mt-8'>
-        <p className='w-[45ch] mx-auto'>Next.js Engineer</p>
+      <nav className='m-6'>
+        <p className='font-medium'>Next.js Engineer</p>
       </nav>
-      <main>
-        <ul className='w-[45ch] mx-auto mt-6'>
+      <main className='m-6'>
+        <h1 className='mx-auto w-1/3 text-xl font-medium mb-12'>
+          Join an engineering team developing their product with Next.js your
+          React framework of choice.
+        </h1>
+        <ul className='mx-auto w-1/3'>
           {data.map((job: Job) => (
-            <li key='job.job_url' className='mt-6'>
-              <p className='font-semibold'>{job.job_title}</p>
-              <p>{job.job_employer}</p>
-              {job.job_salary && <p>{job.job_salary}</p>}
-              {job.job_location && <p>{job.job_location}</p>}
-              <a className='underline' href={job.job_url}>
+            <li key='job.job_url' className='mt-10'>
+              <p className='font-medium'>{job.job_title}</p>
+              <p className='text-zinc-500 text-sm'>{job.job_employer}</p>
+              {job.job_salary && (
+                <p className='text-zinc-500 text-sm'>{job.job_salary}</p>
+              )}
+              {job.job_location && (
+                <p className='text-zinc-500 text-sm'>{job.job_location}</p>
+              )}
+              <a className='underline text-sm font-medium' href={job.job_url}>
                 Apply
               </a>
             </li>
