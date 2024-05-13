@@ -148,5 +148,11 @@
     "job_employer": "disney.com",
     "job_url": "https://www.disneycareers.com/en/job/-/-/391/62584648400",
     "job_salary": "$136,038 - $199,870"
+  },
+  {
+    "job_title": "Senior Fullstack Engineer (React.js/Next.js/Nest.js)",
+    "job_employer": "whitespectre.com",
+    "job_url": "https://apply.workable.com/whitespectre/j/01BE6B5A7F/",
+    "job_location": "Remote"
   }
 ]
