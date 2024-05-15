@@ -154,5 +154,19 @@
     "job_employer": "whitespectre.com",
     "job_url": "https://apply.workable.com/whitespectre/j/01BE6B5A7F/",
     "job_location": "Remote"
+  },
+  {
+    "job_title": "Full Stack Web Developer at Bluelight (W21)",
+    "job_employer": "usebluelight.com",
+    "job_url": "https://www.workatastartup.com/jobs/66519",
+    "job_location": "Remote",
+    "job_salary": "Contract: $48,000 - $60,000"
+  },
+  {
+    "job_title": "Founding Full Stack Software Engineer (Remote US) at Pigeon (W23)",
+    "job_employer": "pigeondocuments.com",
+    "job_url": "https://www.workatastartup.com/jobs/66517",
+    "job_location": "Remote (US)",
+    "job_salary": "$100,000 - $180,000"
   }
 ]
