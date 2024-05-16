@@ -168,5 +168,18 @@
     "job_url": "https://www.workatastartup.com/jobs/66517",
     "job_location": "Remote (US)",
     "job_salary": "$100,000 - $180,000"
+  },
+  {
+    "job_title": "Senior Full Stack Engineer (Next.js / Node.js / TypeScript)",
+    "job_employer": "qode.world",
+    "job_url": "https://apply.workable.com/qodeworld/j/A6C31519C3/",
+    "job_location": "Remote Philippines"
+  },
+  {
+    "job_title": "Software engineer - Front-end (Next.js, TypeScript) - Contract at Hydra (W22)",
+    "job_employer": "hydra.so",
+    "job_url": "https://www.workatastartup.com/jobs/66583",
+    "job_location": "Remote",
+    "job_salary": "Contract: $? - $?"
   }
 ]
