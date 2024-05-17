@@ -181,5 +181,19 @@
     "job_url": "https://www.workatastartup.com/jobs/66583",
     "job_location": "Remote",
     "job_salary": "Contract: $? - $?"
+  },
+  {
+    "job_title": "Full Stack Engineer at kapa.ai (S23)",
+    "job_employer": "kapa.ai",
+    "job_url": "https://www.workatastartup.com/jobs/65544",
+    "job_location": "Remote",
+    "job_salary": "$80,000 - $120,000"
+  },
+  {
+    "job_title": "Software Engineer at Replo",
+    "job_employer": "replo.app",
+    "job_url": "https://app.dover.io/apply/1fd59372-2352-40bb-8973-491c6695b248/db05aea1-1e41-419c-973e-3d8e3d209c24/?rs=15190316",
+    "job_location": "Hybrid (San Francisco, CA)",
+    "job_salary": "$100,000 - $200,000"
   }
 ]
