@@ -195,5 +195,19 @@
     "job_url": "https://app.dover.io/apply/1fd59372-2352-40bb-8973-491c6695b248/db05aea1-1e41-419c-973e-3d8e3d209c24/?rs=15190316",
     "job_location": "Hybrid (San Francisco, CA)",
     "job_salary": "$100,000 - $200,000"
+  },
+  {
+    "job_title": "Senior Full Stack Software Engineer - Typescript",
+    "job_employer": "innkeeper.ai",
+    "job_url": "workatastartup.com/jobs/66352",
+    "job_location": "Remote Brazil/South America",
+    "job_salary": "$45,000 - $90,000"
+  },
+  {
+    "job_title": "Software Engineer - Frontend",
+    "job_employer": "remihq.com",
+    "job_url": "https://remicorp.notion.site/Work-with-us-at-Remi-3f2b0eb3c5fc42329c465b3aab617c77",
+    "job_location": "Lehi, Utah",
+    "job_salary": "$90,000 - $200,000"
   }
 ]
