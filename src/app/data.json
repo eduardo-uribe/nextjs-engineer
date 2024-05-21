@@ -209,5 +209,33 @@
     "job_url": "https://remicorp.notion.site/Work-with-us-at-Remi-3f2b0eb3c5fc42329c465b3aab617c77",
     "job_location": "Lehi, Utah",
     "job_salary": "$90,000 - $200,000"
+  },
+  {
+    "job_title": "Senior Frontend Engineer at Distro (S24)",
+    "job_employer": "distro.app",
+    "job_url": "https://www.workatastartup.com/jobs/66507",
+    "job_location": "New York, NY",
+    "job_salary": "$120,000 - $160,000"
+  },
+  {
+    "job_title": "Product Engineer at Sieve (W22)",
+    "job_employer": "sievedata.com",
+    "job_url": "https://www.workatastartup.com/jobs/63261",
+    "job_location": "San Francisco, CA",
+    "job_salary": "$? - $?"
+  },
+  {
+    "job_title": "Founding Engineer at Forge (W24)",
+    "job_employer": "forgehq.com",
+    "job_url": "https://www.workatastartup.com/jobs/66662",
+    "job_location": "San Francisco, CA",
+    "job_salary": "$100,000 - $180,000"
+  },
+  {
+    "job_title": "Front End Engineer - Vendora (W23)",
+    "job_employer": "vendora.io",
+    "job_url": "https://www.workatastartup.com/jobs/63312",
+    "job_location": "New York, NY",
+    "job_salary": "$90,000 - $140,000"
   }
 ]
