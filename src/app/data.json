@@ -237,5 +237,12 @@
     "job_url": "https://www.workatastartup.com/jobs/63312",
     "job_location": "New York, NY",
     "job_salary": "$90,000 - $140,000"
+  },
+  {
+    "job_title": "Software Engineer (Full-Stack Generalist)",
+    "job_employer": "replo.app",
+    "job_url": "https://jobs.ashbyhq.com/replo/1661d873-6c39-41f8-8390-a48d211728c4",
+    "job_location": "San Francisco, CA (Hybrid)",
+    "job_salary": "$120,000 - $170,000"
   }
 ]

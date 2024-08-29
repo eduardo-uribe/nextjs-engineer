@@ -6,8 +6,8 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Next.js Engineer',
-  description: 'Next.js Engineer is a Next.js job board.',
+  title: 'Next.js engineer',
+  description: 'oin a team shipping products with Next.js.',
 };
 
 export default function RootLayout({
