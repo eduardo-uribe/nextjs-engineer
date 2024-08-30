@@ -244,5 +244,25 @@
     "job_url": "https://jobs.ashbyhq.com/replo/1661d873-6c39-41f8-8390-a48d211728c4",
     "job_location": "San Francisco, CA (Hybrid)",
     "job_salary": "$120,000 - $170,000"
+  },
+  {
+    "job_title": "Software Engineer II (Full Stack)",
+    "job_employer": "Trunk",
+    "job_url": "https://jobs.lever.co/trunkio/feea7e96-4330-46ca-a53e-d393a559637a",
+    "job_location": "San Francisco or Remote from US or Canada",
+    "job_salary": "$140,000 - $175,000"
+  },
+  {
+    "job_title": "Senior Software Engineer (Full Stack)",
+    "job_employer": "Magic School",
+    "job_url": "https://jobs.ashbyhq.com/magicschool/70ad0264-1e89-4675-94f5-2fa9d005ab19",
+    "job_location": "Remote",
+    "job_salary": "$160,000 – $190,000"
+  },
+  {
+    "job_title": "FrontEnd Software Engineer",
+    "job_employer": "Bask Health",
+    "job_url": "https://jobs.bask.health/careers/frontend-software-engineer",
+    "job_location": "On-site or Remote"
   }
 ]
