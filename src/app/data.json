@@ -270,5 +270,23 @@
     "job_employer": "Ascend",
     "job_url": "https://wellfound.com/jobs/1304789-senior-software-engineer",
     "job_location": "San Francisco"
+  },
+  {
+    "job_title": "Full Stack Engineer",
+    "job_employer": "Mintlify",
+    "job_url": "https://jobs.ashbyhq.com/Mintlify/e132acd4-ec23-41bb-b33a-9e694fc63f99",
+    "job_location": "San Francisco"
+  },
+  {
+    "job_title": "Software Engineer",
+    "job_employer": "Govdash",
+    "job_url": "https://jobs.ashbyhq.com/govdash/723ba809-4d76-4b1d-9661-869dea782646",
+    "job_location": "New York, NY"
+  },
+  {
+    "job_title": "Full Stack Engineer",
+    "job_employer": "UpCodes",
+    "job_url": "https://up.codes/careers?ashby_jid=1ed9b2d6-86fb-4ff0-9dff-4d215e5e08e4",
+    "job_location": "Remote"
   }
 ]
