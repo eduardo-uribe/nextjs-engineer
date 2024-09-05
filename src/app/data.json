@@ -288,5 +288,17 @@
     "job_employer": "UpCodes",
     "job_url": "https://up.codes/careers?ashby_jid=1ed9b2d6-86fb-4ff0-9dff-4d215e5e08e4",
     "job_location": "Remote"
+  },
+  {
+    "job_title": "Full Stack Engineer",
+    "job_employer": "Vendora",
+    "job_url": "https://www.workatastartup.com/jobs/69135",
+    "job_location": "New York, NY"
+  },
+  {
+    "job_title": "Founding Frontend Engineer",
+    "job_employer": "Roame",
+    "job_url": "https://www.workatastartup.com/jobs/68977",
+    "job_location": "San Francisco, CA"
   }
 ]
